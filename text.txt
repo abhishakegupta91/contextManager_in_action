@@ -1,0 +1,11 @@
+Hey I am a with statement
+
+Part 1- Python Context Managers || using decorator & Generators
+
+This video explains how to use one of the most commonly used python construct i.e. context manager, using decorators and generators.
+
+When we have 2 execute 2 related operations with a block of statements in between then we prefer to use context managers.
+Kindly like, share, subscribe if you feel the video is worth watching.
+
+we are open to feedback via comments or mail below.
+Mail:: letspython3.x@gmail.com
